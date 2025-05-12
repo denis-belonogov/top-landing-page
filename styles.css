@@ -127,6 +127,11 @@ header > .inner-column {
     padding-bottom: 10px;
 }
 
+.logo {
+    display: flex;
+    align-items: center;
+}
+
 /* CONTENT */
 
 .info {
